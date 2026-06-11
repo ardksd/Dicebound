@@ -34,14 +34,11 @@ python dicebound.py
 
 ## Screenshots
 
-### Main Menu
-![Main Menu](screenshots/menu.png)
+![Main Menu](dicebound_menu.png)
 
-### Battle
-![Battle](screenshots/battle.png)
+![Battle](dicebound_battle.png)
 
-### Shop
-![Shop](screenshots/shop.png)
+![Shop](dicebound_shop.png)
 
 ## Author
 
