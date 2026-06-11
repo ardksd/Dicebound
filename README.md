@@ -32,6 +32,17 @@ python dicebound.py
 - File handling
 - Random number generation
 
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/menu.png)
+
+### Battle
+![Battle](screenshots/battle.png)
+
+### Shop
+![Shop](screenshots/shop.png)
+
 ## Author
 
 Arda Aksu
